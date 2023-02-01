@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HW-8-UseEffect/static/css/main.cfd14500.chunk.css",
+    "main.js": "/HW-8-UseEffect/static/js/main.fee56bc7.chunk.js",
+    "main.js.map": "/HW-8-UseEffect/static/js/main.fee56bc7.chunk.js.map",
+    "runtime-main.js": "/HW-8-UseEffect/static/js/runtime-main.b0385a4b.js",
+    "runtime-main.js.map": "/HW-8-UseEffect/static/js/runtime-main.b0385a4b.js.map",
+    "static/js/2.fe6f538a.chunk.js": "/HW-8-UseEffect/static/js/2.fe6f538a.chunk.js",
+    "static/js/2.fe6f538a.chunk.js.map": "/HW-8-UseEffect/static/js/2.fe6f538a.chunk.js.map",
+    "index.html": "/HW-8-UseEffect/index.html",
+    "static/css/main.cfd14500.chunk.css.map": "/HW-8-UseEffect/static/css/main.cfd14500.chunk.css.map",
+    "static/js/2.fe6f538a.chunk.js.LICENSE.txt": "/HW-8-UseEffect/static/js/2.fe6f538a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0385a4b.js",
+    "static/js/2.fe6f538a.chunk.js",
+    "static/css/main.cfd14500.chunk.css",
+    "static/js/main.fee56bc7.chunk.js"
+  ]
+}
